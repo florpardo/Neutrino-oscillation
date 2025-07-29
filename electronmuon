@@ -1,0 +1,8 @@
+#Código para la probabilidad de transición de neutrino electrónico a muónico
+x=linspace(0,3000,1000);
+y1=(sin(2*0.148970205))^(2)*(sin(1.27*0.002534*x)).^(2);
+plot(x,y1),xlabel('L/E (km/GeV)'),ylabel('P_2(\nu_\alpha \rightarrow \nu_\beta)');
+y2=1-y1;
+hold on;
+plot(x,y2);
+hold off;
