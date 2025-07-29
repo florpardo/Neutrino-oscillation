@@ -1,2 +1,2 @@
 # Neutrino-oscillations
-Código para representación de oscilaciones de neutrinos en la aproximación de dos y tres sabores (neutonio electrónico, muónico y tauónico).
+Código para representación de oscilaciones de neutrinos en la aproximación de dos y tres sabores (neutrino electrónico, muónico y tauónico).
